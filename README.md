@@ -17,7 +17,7 @@ If you wish to test this script you will need to provide you Riot Games API Key.
 
 # Read Game Data.ipynb
 
-This notebook reads the json files (in my case, aproximatly 16 GBs worth of json files) and prepares the dataset for Machine Learning saving it into a csv file.
+This notebook reads the json files (in my case, aproximatly 16 GBs worth of json files) and prepares the dataset for Machine Learning saving it into a csv file. All objectives are modelled as differences were positive values imply that Blue side had an advantage and negative values imply that Red side had an advantage.
 
 # Data Visualization.ipynb
 
